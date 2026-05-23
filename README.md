@@ -304,6 +304,6 @@ python -m streamlit run main_menu.py
 
 **Team Celestial Coders**
 
-- GitHub: [https://github.com/ayshathul-manha/MeteorMadness](https://github.com/ayshathul-manha/MeteorMadness)
+- GitHub: [https://github.com/ayshathul-manha/Meteor_Madness](https://github.com/ayshathul-manha/Meteor_Madness)
 
 
