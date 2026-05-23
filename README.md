@@ -169,7 +169,7 @@ Make sure you open the *inner* folder — the one that contains files like:
 If you have Git installed, open a terminal / command prompt:
 
 ```bash
-git clone https://github.com/Blehbleh77/Meteor_Madness.git
+git clone https://github.com/ayshathul-manha/Meteor_Madness.git
 cd Meteor_Madness
 ```
 
@@ -304,6 +304,6 @@ python -m streamlit run main_menu.py
 
 **Team Celestial Coders**
 
-- GitHub: [https://github.com/Blehbleh77/MeteorMadness](https://github.com/Blehbleh77/MeteorMadness)
+- GitHub: [https://github.com/ayshathul-manha/MeteorMadness](https://github.com/ayshathul-manha/MeteorMadness)
 
 
